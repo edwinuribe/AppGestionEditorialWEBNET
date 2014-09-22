@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Negocio.Articulos">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAgAAAAIAAAAEgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Articulos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Documentos">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABQQAAAYAAEAGEiAAAgAAAAAAAAIEAAAgBAAAIAAE=</HashCode>
+      <FileName>Documentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Libros">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAEBAAABAAAAAAEgAEAAAAAAAAABIAABAAABAQAAAI=</HashCode>
+      <FileName>Libros.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Negocio.Revistas">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAAAIAAAABAAEgAQAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Revistas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Tesis">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAEgAAAAAAAAAAAAIAABAgAAAQIAAA=</HashCode>
+      <FileName>Tesis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Negocio.IDigital">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAABAAAAAI=</HashCode>
+      <FileName>IDigital.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Negocio.IImpreso">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>IImpreso.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Negocio.Out">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Out.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
